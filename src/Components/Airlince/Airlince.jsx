@@ -7,6 +7,7 @@ import img6 from "../../assets/AirlinceIcon/BBA.png"
 import img7 from "../../assets/AirlinceIcon/Turkish Airlines.png"
 import { IoIosStar } from "react-icons/io";
 const Airlince = () => {
+    // Airlince 
     return (
         <div className=" w-11/12 mx-auto space-y-20">
             <h4 className=" font-bold text-4xl">Popular Airlinces</h4>
